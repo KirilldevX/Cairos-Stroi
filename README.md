@@ -1,29 +1,58 @@
-# Cairos-Stroi
 
-My first project for real company
+# Cairos-Stroi — Construction Company Website
 
-## Preview
+A real-world website development project for **Cairos-Stroi**, a construction and renovation company.
+The website is designed to present the company's services, showcase completed projects and provide customers with an easy way to explore available services and contact the company.
 
-**Live Site:** Not available yet
+## About the Project
 
-Исходный код проект скрыт в качестве конфидециальности
+This is my first real-world commercial web development project.
 
+I am responsible for the frontend development, including page structure, styling, interactive elements and dynamic content rendering.
 
-## Built with
+The project is being developed with a focus on usability, responsive design and maintainable code.
+
+## Features
+
+- Dynamic service catalog loaded from JSON
+- Filtering services by property type
+- Sorting by popularity, price and completion time
+- Pagination
+- Interactive service cards
+- Portfolio section showcasing completed projects
+- Contact and consultation forms
+- Responsive layout for different screen sizes
+
+## Technologies
+
 - HTML5
 - CSS3
+- JavaScript (ES6+)
+- JSON
 - Flexbox
-- Javascript
-- Grid
-- Json
-## Author
-KirillDevX
+- CSS Grid
 
-## Find me online
+## Project Status
 
-**GitHub:** [KirillDevX](https://github.com/KirilldevX)
-**Kwork:** [Мой профиль на Kwork](https://kwork.ru/user/kirilldevx)
-**Youtube** [KirillDevX](https://www.youtube.com/@KirillDevX)
+**In Development**
+
+The website is currently being developed and tested.
+
+**Live Site:** Coming soon
+
+## Source Code
+
+The source code is not publicly available due to project confidentiality.
+
+## Developer
+
+**KirillDevX**
+
+- [GitHub](https://github.com/KirilldevX)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/KirilldevX)
+- [Kwork](https://kwork.ru/user/kirilldevx)
+- [YouTube](https://www.youtube.com/@KirillDevX)
+
 
 **Spoilers**
 
