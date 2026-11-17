@@ -61,3 +61,7 @@ The source code is not publicly available due to project confidentiality.
 <img width="1017" height="1183" alt="image" src="https://github.com/user-attachments/assets/90381b4d-b902-42be-be70-84d2d035f1b6" />
 <img width="1023" height="1189" alt="image" src="https://github.com/user-attachments/assets/4d459ad3-1d0d-4735-8fd8-5305591f6958" />
 <img width="1014" height="1178" alt="image" src="https://github.com/user-attachments/assets/f35b49c6-3106-4638-b4b1-ca01cc1d980c" />
+<img width="85" height="1084" alt="image" src="https://github.com/user-attachments/assets/9e14e0fd-b90b-484a-acbd-321554da5dfe" />
+
+Main page csss code
+<img width="85" height="1084" alt="image" src="https://github.com/user-attachments/assets/e80062ea-e0fd-4584-8ddf-f501d2c03034" />
