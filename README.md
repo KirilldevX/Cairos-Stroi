@@ -1,14 +1,14 @@
-
 # Cairos-Stroi — Construction Company Website
 
 A real-world website development project for **Cairos-Stroi**, a construction and renovation company.
-The website is designed to present the company's services, showcase completed projects and provide customers with an easy way to explore available services and contact the company.
+
+The website is designed to present the company's services, showcase completed projects and provide customers with an easy way to explore available services and prepare service requests.
 
 ## About the Project
 
 This is my first real-world commercial web development project.
 
-I am responsible for the frontend development, including page structure, styling, interactive elements and dynamic content rendering.
+I am responsible for the frontend development, including page structure, styling, interactive elements, dynamic content rendering and client-side functionality.
 
 The project is being developed with a focus on usability, responsive design and maintainable code.
 
@@ -18,9 +18,17 @@ The project is being developed with a focus on usability, responsive design and 
 - Filtering services by property type
 - Sorting by popularity, price and completion time
 - Pagination
+- Dynamically generated service detail pages
 - Interactive service cards
+- Favorites system with interactive heart buttons
+- Add services to a request list
+- Save selected services using localStorage
+- Remove individual services from the request list
+- Clear all selected services at once
+- Automatic synchronization between favorites and the request list
 - Portfolio section showcasing completed projects
-- Contact and consultation forms
+- Contact and consultation interfaces
+- Dynamic navigation between website sections
 - Responsive layout for different screen sizes
 
 ## Technologies
@@ -29,6 +37,12 @@ The project is being developed with a focus on usability, responsive design and 
 - CSS3
 - JavaScript (ES6+)
 - JSON
+- DOM Manipulation
+- Fetch API
+- localStorage
+- Async/Await
+- Event Handling
+- MutationObserver
 - Flexbox
 - CSS Grid
 
@@ -37,6 +51,8 @@ The project is being developed with a focus on usability, responsive design and 
 **In Development**
 
 The website is currently being developed and tested.
+
+Some functionality, including request submission, still requires backend integration.
 
 **Live Site:** Coming soon
 
@@ -48,8 +64,8 @@ The source code is not publicly available due to project confidentiality.
 
 **KirillDevX**
 
-- [GitHub](https://github.com/KirilldevX)
-- [Frontend Mentor](https://www.frontendmentor.io/profile/KirilldevX)
+- [GitHub](https://github.com/KirillDevX)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/KirillDevX)
 - [Kwork](https://kwork.ru/user/kirilldevx)
 - [YouTube](https://www.youtube.com/@KirillDevX)
 
