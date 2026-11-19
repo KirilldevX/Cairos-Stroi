@@ -108,6 +108,7 @@ The source code is not publicly available due to project confidentiality.
 <img width="1014" height="1178" alt="image" src="https://github.com/user-attachments/assets/f35b49c6-3106-4638-b4b1-ca01cc1d980c" />
 <img width="736" height="1180" alt="image" src="https://github.com/user-attachments/assets/836c54cb-f294-4e83-ae5b-c178830f3a87" />
 <img width="751" height="1184" alt="image" src="https://github.com/user-attachments/assets/4635ddc9-6fa7-4ba8-b578-b040115fe073" />
+<img width="2559" height="1185" alt="image" src="https://github.com/user-attachments/assets/ee474b22-2077-4015-bef6-e7934ed02896" />
 
 Main page csss code
 <img width="85" height="1084" alt="image" src="https://github.com/user-attachments/assets/e80062ea-e0fd-4584-8ddf-f501d2c03034" />
