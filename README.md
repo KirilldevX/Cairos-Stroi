@@ -2,7 +2,7 @@
 
 A real-world website development project for **Cairos-Stroi**, a construction and renovation company.
 
-The website is designed to showcase the company's services, present completed projects, provide information about the workflow and allow customers to prepare service requests.
+The website is designed to showcase the company's services, present completed and ongoing projects, explain the work process and allow customers to prepare service requests.
 
 ## About the Project
 
@@ -33,9 +33,12 @@ The project is being developed with a focus on usability, visual consistency, re
 
 ### Portfolio
 - Dynamic portfolio loaded from JSON
-- Individual project cards with photos
+- Individual project cards with multiple photographs
+- Interactive image sliders directly inside portfolio cards
+- Previous and next image navigation
+- Current image counter
 - Project descriptions and property information
-- Lists of completed works for each project
+- Lists of completed and ongoing works
 
 ### Company Information
 - Company introduction section
@@ -46,8 +49,9 @@ The project is being developed with a focus on usability, visual consistency, re
 - External link for submitting reviews
 
 ### Contact & Navigation
-- Contact and consultation interfaces
+- Contact and consultation sections
 - Dynamic navigation between website sections
+- Dynamic CSS loading when switching pages
 - Responsive layouts for mobile, tablet and desktop screens
 
 ## Technologies
@@ -75,7 +79,7 @@ The project is being developed with a focus on usability, visual consistency, re
 
 The website is currently being developed and tested.
 
-The frontend includes dynamic content rendering, interactive service selection, client-side data storage and responsive layouts.
+The frontend includes dynamic content rendering, interactive service selection, client-side data storage, portfolio image sliders and responsive layouts.
 
 Backend integration is still required for request submission and server-side data processing.
 
