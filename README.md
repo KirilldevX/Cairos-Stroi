@@ -1,122 +1,34 @@
+
 # Kairos-Stroi — Construction Company Website
 
-A real-world commercial website developed for **Kairos-Stroi**, a construction and renovation company.
+A commercial website developed for **Kairos-Stroi**, a construction and renovation company.
 
-The website showcases the company's services, presents completed and ongoing projects, explains the workflow and allows potential customers to submit service requests.
-
-## About the Project
-
-This is my first real-world commercial web development project.
-
-I am responsible for frontend development and website functionality, including page structure, styling, responsive layouts, interactive components, dynamic content rendering and client-side logic.
-
-The project combines frontend development with backend integration to provide a functional website ready for real-world use.
+My first real-world commercial project, featuring a dynamic service catalog, project portfolio and functional service request system.
 
 ## Features
 
-### Service Catalog
-- Dynamic service catalog loaded from JSON
-- Filtering services by property type
-- Sorting by popularity, price and completion time
-- Pagination
-- Dynamically generated service detail pages
-- Interactive service cards
-
-### Favorites & Service Requests
-- Interactive favorites system with heart buttons
-- Add services to a request list
-- Save selected services using localStorage
-- Remove individual services from the request list
-- Clear all selected services at once
-- Synchronization between favorites and the request list
-- Duplicate prevention when adding services
-
-### Portfolio
-- Dynamic portfolio loaded from JSON
-- Individual project cards with multiple photographs
-- Interactive image sliders inside portfolio cards
-- Previous and next image navigation
-- Current image counter
-- Project descriptions and property information
-- Lists of completed and ongoing works
-
-### Company Information
-- Company introduction section
-- Overview of the company's advantages
-- Project achievements section
-- Step-by-step description of the work process
-- Customer reviews section
-- External link for submitting reviews
-
-### Contact & Navigation
-- Contact and consultation sections
-- Dynamic navigation between website sections
-- Dynamic CSS loading when switching pages
-- Responsive layouts for mobile, tablet and desktop screens
-
-### Backend & Form Processing
-- PHP backend for processing service requests
-- PHPMailer integration for email delivery
-- SMTP configuration using Yandex Mail
-- Server-side form validation
+- Dynamic service catalog with filtering, sorting and pagination
+- Service detail pages generated dynamically
+- Favorites and service request system using localStorage
+- Interactive project portfolio with image sliders
+- Dynamic navigation and responsive layouts
+- PHP-based request processing and email notifications
 - Cloudflare Turnstile CAPTCHA integration
-- Server-side CAPTCHA verification
-- Customer consent validation
-- Asynchronous form submission using Fetch API
+- Server-side validation and customer consent verification
 
 ## Technologies
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- JSON
-- DOM Manipulation
-- Fetch API
-- localStorage
-- Async/Await
-- Event Handling
-- Custom Events
-- MutationObserver
-- Responsive Web Design
-- Mobile First Approach
-- Flexbox
-- CSS Grid
-- CSS Transitions
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), JSON, Fetch API, localStorage, Flexbox, CSS Grid
 
-### Backend & Tools
-- PHP
-- PHPMailer
-- Composer
-- SMTP
-- Cloudflare Turnstile
-- XAMPP
-
-## Testing
-
-The website has undergone functional and responsive testing.
-
-The following components have been tested:
-- Service catalog and filtering
-- Portfolio and image sliders
-- Navigation and interactive elements
-- Favorites and service request list
-- PHP form processing
-- Email delivery
-- CAPTCHA verification
-- Responsive layouts
+**Backend & Tools:** PHP, PHPMailer, Composer, SMTP, Cloudflare Turnstile, XAMPP
 
 ## Project Status
 
-**Deployment Preparation**
+**Live & Functional**
 
-The main website functionality has been implemented and tested.
+The website is deployed and its main functionality, including service requests and email delivery, has been tested.
 
-The project is currently being prepared for production deployment, including domain configuration, SSL setup and hosting configuration.
-
-**Domain:** https://kairosstroi.ru
-
-**Live Site:** Coming soon
+**Website:** https://kairosstroi.ru
 
 ## Source Code
 
@@ -130,6 +42,10 @@ The source code is not publicly available due to project confidentiality.
 - [Frontend Mentor](https://www.frontendmentor.io/profile/KirillDevX)
 - [Kwork](https://kwork.ru/user/kirilldevx)
 - [YouTube](https://www.youtube.com/@KirillDevX)
+
+---
+
+**Last updated:** November 22, 2026
 
 
 **Spoilers**
