@@ -1,16 +1,16 @@
-# Cairos-Stroi — Construction Company Website
+# Kairos-Stroi — Construction Company Website
 
-A real-world website development project for **Cairos-Stroi**, a construction and renovation company.
+A real-world commercial website developed for **Kairos-Stroi**, a construction and renovation company.
 
-The website is designed to showcase the company's services, present completed and ongoing projects, explain the work process and allow customers to prepare service requests.
+The website showcases the company's services, presents completed and ongoing projects, explains the workflow and allows potential customers to submit service requests.
 
 ## About the Project
 
 This is my first real-world commercial web development project.
 
-I am responsible for frontend development, including page structure, styling, responsive layouts, interactive elements, dynamic content rendering and client-side functionality.
+I am responsible for frontend development and website functionality, including page structure, styling, responsive layouts, interactive components, dynamic content rendering and client-side logic.
 
-The project is being developed with a focus on usability, visual consistency, responsive design and maintainable code.
+The project combines frontend development with backend integration to provide a functional website ready for real-world use.
 
 ## Features
 
@@ -28,13 +28,13 @@ The project is being developed with a focus on usability, visual consistency, re
 - Save selected services using localStorage
 - Remove individual services from the request list
 - Clear all selected services at once
-- Automatic synchronization between favorites and the request list
+- Synchronization between favorites and the request list
 - Duplicate prevention when adding services
 
 ### Portfolio
 - Dynamic portfolio loaded from JSON
 - Individual project cards with multiple photographs
-- Interactive image sliders directly inside portfolio cards
+- Interactive image sliders inside portfolio cards
 - Previous and next image navigation
 - Current image counter
 - Project descriptions and property information
@@ -54,8 +54,19 @@ The project is being developed with a focus on usability, visual consistency, re
 - Dynamic CSS loading when switching pages
 - Responsive layouts for mobile, tablet and desktop screens
 
+### Backend & Form Processing
+- PHP backend for processing service requests
+- PHPMailer integration for email delivery
+- SMTP configuration using Yandex Mail
+- Server-side form validation
+- Cloudflare Turnstile CAPTCHA integration
+- Server-side CAPTCHA verification
+- Customer consent validation
+- Asynchronous form submission using Fetch API
+
 ## Technologies
 
+### Frontend
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -73,15 +84,37 @@ The project is being developed with a focus on usability, visual consistency, re
 - CSS Grid
 - CSS Transitions
 
+### Backend & Tools
+- PHP
+- PHPMailer
+- Composer
+- SMTP
+- Cloudflare Turnstile
+- XAMPP
+
+## Testing
+
+The website has undergone functional and responsive testing.
+
+The following components have been tested:
+- Service catalog and filtering
+- Portfolio and image sliders
+- Navigation and interactive elements
+- Favorites and service request list
+- PHP form processing
+- Email delivery
+- CAPTCHA verification
+- Responsive layouts
+
 ## Project Status
 
-**In Development**
+**Deployment Preparation**
 
-The website is currently being developed and tested.
+The main website functionality has been implemented and tested.
 
-The frontend includes dynamic content rendering, interactive service selection, client-side data storage, portfolio image sliders and responsive layouts.
+The project is currently being prepared for production deployment, including domain configuration, SSL setup and hosting configuration.
 
-Backend integration is still required for request submission and server-side data processing.
+**Domain:** https://kairosstroi.ru
 
 **Live Site:** Coming soon
 
