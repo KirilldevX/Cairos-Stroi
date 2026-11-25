@@ -41,7 +41,6 @@ The source code is not publicly available due to project confidentiality.
 - [GitHub](https://github.com/KirillDevX)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/KirillDevX)
 - [Kwork](https://kwork.ru/user/kirilldevx)
-- [YouTube](https://www.youtube.com/@KirillDevX)
 
 ---
 
